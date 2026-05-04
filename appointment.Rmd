@@ -25,7 +25,7 @@ For speech, language, hearing, tinnitus, and communication-related consultation.
 
 For speech, language, hearing, and neurological communication consultation.
 
-<a href="https://calendar.app.google/jtq4Jkqq7qGCqcBJ7" class="button">Book with Biraj Bhattarai</a>
+<a href="https://calendar.app.google/jtq4Jkqq7qGCqcBJ7" target="_blank" class="button">Book with Biraj Bhattarai</a>
 
 </div>
 
@@ -37,7 +37,7 @@ For speech, language, hearing, and neurological communication consultation.
 
 For speech, language, cognition, and communication-related consultation.
 
-<a href="#" class="button">Book with Dr. Pratik Bhandari</a>
+<a href="https://calendar.app.google/P8WZmZ9YLrHQdWcU8" target="_blank" class="button">Book with Dr. Pratik Bhandari</a>
 
 </div>
 
