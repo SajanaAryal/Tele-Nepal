@@ -1,0 +1,73 @@
+---
+title: ""
+---
+
+
+TELE-SPEAK Nepal is led by highly qualified professionals with decades of experiences in speech, language, and hearing sciences dedicated to improving access to communication support across Nepal.
+
+---
+
+<div class="card" style="text-align:center;">
+
+<img src="images/biraj.png" width="180" style="border-radius:50%; margin-bottom:15px;">
+
+## Biraj Bhattarai
+
+**Qualifications:**  
+
+PhD Candidate in Communication Sciences and Disorders   
+MS in Speech-Language Pathology    
+BS in Audiology and Speech-Language Pathology    
+
+<br>
+
+<i class="fas fa-graduation-cap"></i> <a href="https://scholar.google.com/citations?user=JczcLwkAAAAJ&hl=en" target="_blank">Google Scholar</a>
+<i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/biraj-bhattarai-3172931a3/" target="_blank">LinkedIn</a>
+
+</div>
+
+---
+
+<div class="card" style="text-align:center;">
+
+<img src="images/sajana.png" width="180" style="border-radius:50%; margin-bottom:15px;">
+
+## Dr. Sajana Aryal
+
+**Qualifications:**  
+
+PhD in Speech, Language, and Hearing Science  
+MS in Audiology / Hearing Science  
+BS in Audiology and Speech-Language Pathology  
+
+<br>
+
+<i class="fas fa-globe"></i> <a href="https://sites.google.com/view/sajanaaryal/home" target="_blank">Website</a>
+<i class="fas fa-graduation-cap"></i> <a href="https://scholar.google.com/citations?hl=en&pli=1&user=BUryX9QAAAAJ" target="_blank">Google Scholar</a>
+<i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/sajana-aryal-209612187/" target="_blank">LinkedIn</a>
+</div>
+
+---
+
+<div class="card" style="text-align:center;">
+
+<img src="images/pratik.png" width="180" style="border-radius:50%; margin-bottom:15px;">
+
+## Dr. Pratik Bhandari
+
+**Qualifications:**  
+
+PhD in Cognitive Science   
+MS in Cognitive Neuroscience of Language   
+BS in Audiology and Speech-Language Pathology   
+
+<br>
+
+<i class="fas fa-graduation-cap"></i> <a href="https://scholar.google.de/citations?user=Y0HnEQwAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>
+<i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/prbhx/" target="_blank">LinkedIn</a>
+
+</div>
+
+---
+
+

@@ -1,0 +1,57 @@
+---
+title: ""
+---
+
+# CONTACT US
+
+We would be happy to hear from you regarding appointments, services, collaboration, or general questions. 
+
+---
+
+<div class="card">
+
+## GENERAL CONTACT
+
+**Email:**  
+<a href="mailto:telespeaknepal@gmail.com">telespeaknepal@gmail.com</a>  
+
+<br>
+
+**Phone:**  
++977-XXXXXXXXXX  
+
+<br>
+
+**Service Mode:**  
+Online consultation  
+
+</div>
+
+---
+
+
+<div class="card">
+
+## RESEARCH & CLINICAL COLLABORATION
+
+See research work from our team here:
+
+<a href="https://nccsnepal.org/" target="_blank">Nepal Center for Cognition and Society (NCCS)</a>
+
+We welcome collaboration with professionals and organizations working in communication sciences, healthcare, education, and public health.
+
+</div>
+
+---
+
+<div class="card">
+
+## FOLLOW US ON SOCIAL MEDIAS FOR MORE INFORMATION
+
+
+<a href="#" target="_blank">Facebook</a><br>
+<a href="#" target="_blank">Instagram</a><br>
+<a href="#" target="_blank">LinkedIn</a><br>
+<a href="#" target="_blank">TikTok</a>
+
+</div>

@@ -1,0 +1,62 @@
+---
+title: ""
+---
+
+
+Please select the provider you would like to consult with. You will be directed to their calendar to choose an available time slot.
+
+---
+
+<div class="card">
+
+## Dr. Sajana Aryal
+
+For speech, language, hearing, tinnitus, and communication-related consultation.
+
+<a href="https://calendar.app.google/6cVyaYHpytMepqPP8" target="_blank" class="button">Book with Dr. Sajana Aryal</a>
+
+</div>
+
+---
+
+<div class="card">
+
+## Biraj Bhattarai
+
+For speech, language, hearing, and neurological communication consultation.
+
+<a href="https://calendar.app.google/jtq4Jkqq7qGCqcBJ7" class="button">Book with Biraj Bhattarai</a>
+
+</div>
+
+---
+
+<div class="card">
+
+## Dr. Pratik Bhandari
+
+For speech, language, cognition, and communication-related consultation.
+
+<a href="#" class="button">Book with Dr. Pratik Bhandari</a>
+
+</div>
+
+---
+
+## BEFORE YOUR APPOINTMENT
+
+Please prepare the following information:
+
+- Main concern or reason for consultation  
+- Any previous diagnosis or reports (if available)  
+- Speech,Language and Hearing evaluation  test results (if available)  
+- Questions/Conerns you would like to discuss/share  
+
+---
+
+## IMPORTANT INFORMATION!!
+
+- Sessions are conducted online via Google Meet (Client need to have good internet access)
+- You will receive a confirmation email after booking  
+- A meeting link will be shared automatically  
+ 

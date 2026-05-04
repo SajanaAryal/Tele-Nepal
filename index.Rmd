@@ -1,0 +1,47 @@
+---
+title: ""
+---
+
+
+<div class="hero">
+
+<div style="text-align: left;">
+  <img src="images/logo.png" width="400" style="margin-bottom:19px;">
+</div>
+
+# TELE-SPEAK Nepal
+
+### Speech • Language • Hearing • Communication • Cognition
+
+Accessible communication support for children and adults across Nepal.
+
+<a href="appointment.html" class="button">Book Your Appointment</a>
+
+</div>
+
+---
+
+## OUR MISSION
+
+TELE-SPEAK Nepal is a virtual platform to help individuals with communication disorders access the service at their door step. Our mission is to improve access to speech, language, hearing, and communication services in Nepal through accessible, affordable, and culturally responsive services remotely.
+
+---
+
+## WHO CAN BENEFIT?
+
+- Children with speech or language delay (e.g., children with Austism Spectrum Disorder, downs syndrome.)
+- Adults with speech disorders (e.g., Voice disorders, Fluency disorders)
+- Adult with neurological communication disorders (e.g., post-stroke aphasia, Dysarthria)
+- Individuals with hearing and listening concerns (e.g., Hearing loss, auditory processing disorder.)
+- Individuals experiencing tinnitus and sound sensitivity disorders  
+- Caregivers seeking training on speech and language intervention
+- Individuals living in areas with limited access to specialists  
+
+
+---
+
+<div class="footer-note">
+
+TELE-SPEAK Nepal provides telepractice-based support for both assessment and management of communication disorders. In-person evaluation or medical/audiological care may be recommended whenever necessary.
+
+</div>

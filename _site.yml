@@ -1,0 +1,27 @@
+name: "Tele-Speak Nepal"
+output_dir: "docs"
+
+navbar:
+  title: "Tele-Speak Nepal"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Team"
+      href: team.html
+    - text: "Services"
+      href: services.html
+    - text: "Consultation Fees"   # 👈 ADD THIS
+      href: consultation-fee.html
+    - text: "Book Your Appointment"
+      href: appointment.html
+    - text: "Contact"
+      href: contact.html
+
+output:
+  html_document:
+    theme: cosmo
+    toc: false
+    includes:
+      in_header: styles.html
