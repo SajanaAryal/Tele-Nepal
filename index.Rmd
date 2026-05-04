@@ -13,7 +13,7 @@ title: ""
 
 ### Speech • Language • Hearing • Communication • Cognition
 
-Accessible communication support for children and adults across Nepal.
+Accessible communication support for children and adults across globes.
 
 <a href="appointment.html" class="button">Book Your Appointment</a>
 
