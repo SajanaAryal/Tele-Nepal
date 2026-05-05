@@ -3,13 +3,14 @@ title: ""
 ---
 
 
-TELE-SPEAK Nepal is an online platform designed to improve access to **speech, language, hearing, and overall communication support** across Nepal and Nepalese diaspora. Many individuals and families in Nepal face barriers to accessing specialized speech, language and hearing services due to limited availability of professionals, geographic challenges, travel burden, and lack of awareness. TELE-SPEAK Nepal aims to reduce these barriers through accessible telepractice-based support delivered remotely.
+TELE-SPEAK Nepal is an online platform designed to improve access to **speech, language and hearing health, and overall communication support** across Nepal and Nepali diaspora globally. Many individuals and families in Nepal face barriers to accessing specialized speech, language and hearing services due to limited availability of professionals, geographic challenges, travel burden, and lack of awareness.
+TELE-SPEAK Nepal aims to reduce these barriers through accessible telepractice-based support delivered remotely/online.
 
 ---
 
 ## OUR VISION
 
-To ensure that individuals across globe have access to quality speech, language and hearing services, regardless of their location.
+To ensure that individuals across the globe have access to quality speech, language and hearing health services, regardless of their location.
 
 ---
 
@@ -26,8 +27,8 @@ To ensure that individuals across globe have access to quality speech, language 
 
 ## OUR APPROACH
 
-- Evidence/research based practice  
-- Tele consultation (both Nepali & English language)
+- Evidence/[research](https://nccsnepal.org/research.html) based practice  
+- Multilingual tele-consultation (in Nepali, English, and Hindi)
 - Family-centered support  
 - Functional and real-life communication focus 
 - Awareness-raising through workshops, training, and community education

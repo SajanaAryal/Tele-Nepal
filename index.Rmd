@@ -29,13 +29,15 @@ TELE-SPEAK Nepal is a virtual platform to help individuals with communication di
 
 ## WHO CAN BENEFIT?
 
-- Children with speech or language delay (e.g., children with Austism Spectrum Disorder, downs syndrome.)
-- Adults with speech disorders (e.g., Voice disorders, Fluency disorders)
-- Adult with neurological communication disorders (e.g., post-stroke aphasia, Dysarthria)
-- Individuals with hearing and listening concerns (e.g., Hearing loss, auditory processing disorder.)
+- Children with speech or language delay (e.g., children with Austism Spectrum Disorder, Down syndrome)
+- Children with speech sound disorders
+- Adults with speech disorders (e.g., voice disorders, fluency disorders)
+- Adults with neurological communication disorders (e.g., post-stroke aphasia, dysarthria)
+- Individuals with hearing and listening concerns (e.g., hearing loss, auditory processing disorder)
 - Individuals experiencing tinnitus and sound sensitivity disorders  
 - Caregivers seeking training on speech and language intervention
 - Individuals living in areas with limited access to specialists  
+- Schools that help children with special communication needs
 
 
 ---

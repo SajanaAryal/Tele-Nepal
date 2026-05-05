@@ -3,7 +3,7 @@ title: ""
 ---
 
 
-TELE-SPEAK Nepal is led by highly qualified professionals with decades of experiences in speech, language, and hearing sciences dedicated to improving access to communication support across Nepal and globes.
+TELE-SPEAK Nepal is led by highly qualified professionals with decades of experiences in speech, language, and hearing sciences dedicated to improving access to communication support across Nepal and the globe.
 
 ---
 
@@ -21,8 +21,8 @@ BS in Audiology and Speech-Language Pathology
 
 <br>
 
-<i class="fas fa-graduation-cap"></i> <a href="https://scholar.google.com/citations?user=JczcLwkAAAAJ&hl=en" target="_blank">Google Scholar</a>
-<i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/biraj-bhattarai-3172931a3/" target="_blank">LinkedIn</a>
+<i class="bi bi-mortarboard-fill"></i> <a href="https://scholar.google.com/citations?user=JczcLwkAAAAJ&hl=en" target="_blank">Google Scholar |</a>
+<i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/in/biraj-bhattarai-3172931a3/" target="_blank">LinkedIn</a>
 
 </div>
 
@@ -42,9 +42,9 @@ BS in Audiology and Speech-Language Pathology
 
 <br>
 
-<i class="fas fa-globe"></i> <a href="https://sites.google.com/view/sajanaaryal/home" target="_blank">Website</a>
-<i class="fas fa-graduation-cap"></i> <a href="https://scholar.google.com/citations?hl=en&pli=1&user=BUryX9QAAAAJ" target="_blank">Google Scholar</a>
-<i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/sajana-aryal-209612187/" target="_blank">LinkedIn</a>
+<i class="bi bi-globe"></i> <a href="https://sites.google.com/view/sajanaaryal/home" target="_blank" rel="noopener noreferrer">Website |</a>
+<i class="bi bi-mortarboard-fill"></i> <a href="https://scholar.google.com/citations?hl=en&pli=1&user=BUryX9QAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar |</a>
+<i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/in/sajana-aryal-209612187/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </div>
 
 ---
@@ -63,8 +63,9 @@ BS in Audiology and Speech-Language Pathology
 
 <br>
 
-<i class="fas fa-graduation-cap"></i> <a href="https://scholar.google.de/citations?user=Y0HnEQwAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>
-<i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/prbhx/" target="_blank">LinkedIn</a>
+<i class="bi bi-globe"></i> <a href="https://www.pratikb.com" target="_blank" rel="noopener noreferrer">Website |</a>
+<i class="bi bi-mortarboard-fill"></i> <a href="https://scholar.google.de/citations?user=Y0HnEQwAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar |</a>
+<i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/in/prbhx/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 </div>
 
