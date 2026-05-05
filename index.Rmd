@@ -7,7 +7,7 @@ title: ""
   <img src="images/logo.png" width="160" style="margin-bottom:20px;">
   <h1>TELE-SPEAK Nepal</h1>
   <h3>Speech • Language • Hearing • Communication • Cognition</h3>
-  <p>Accessible communication support for children and adults across the globe</p>
+  <p>Accessible communication support for children and adults in Nepal and across the globe</p>
 </div>
 
 <!-- # TELE-SPEAK Nepal 
@@ -17,9 +17,14 @@ title: ""
 Accessible communication support for children and adults across globes. -->
 
 <div style="text-align:center;">
-  <a class="button" href="appointment.html">Book Your Appointment</a>
+  <h2> Tele-therapy for underserved communities in Nepal and the multilingual Nepali diaspora around the world </h2>
 </div>
 
+---
+
+<div style="text-align:center;">
+  <a class="button" href="appointment.html">Book Your Appointment</a>
+</div>
 
 ---
 
