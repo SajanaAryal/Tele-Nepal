@@ -3,21 +3,23 @@ title: ""
 ---
 
 
-<div class="hero">
-
-<div style="text-align: left;">
-  <img src="images/logo.png" width="400" style="margin-bottom:19px;">
+<div class="hero" style="text-align:center; padding:60px 20px;">
+  <img src="images/logo.png" width="160" style="margin-bottom:20px;">
+  <h1>TELE-SPEAK Nepal</h1>
+  <h3>Speech • Language • Hearing • Communication • Cognition</h3>
+  <p>Accessible communication support for children and adults across globes</p>
 </div>
 
-# TELE-SPEAK Nepal
+<!-- # TELE-SPEAK Nepal 
 
 ### Speech • Language • Hearing • Communication • Cognition
 
-Accessible communication support for children and adults across globes.
+Accessible communication support for children and adults across globes. -->
 
-<a href="appointment.html" class="button">Book Your Appointment</a>
-
+<div style="text-align:center;">
+  <a class="button" href="appointment.html">Book Your Appointment</a>
 </div>
+
 
 ---
 

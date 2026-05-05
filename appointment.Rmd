@@ -9,21 +9,15 @@ Please select the provider you would like to consult with. You will be directed 
 
 <div class="card">
 
-## Dr. Sajana Aryal
-
-For speech, language, hearing, tinnitus, and communication-related consultation.
-
-<a href="https://calendar.app.google/6cVyaYHpytMepqPP8" target="_blank" class="button">Book with Dr. Sajana Aryal</a>
-
-</div>
-
----
-
-<div class="card">
-
 ## Biraj Bhattarai
 
-For speech, language, hearing, and neurological communication consultation.
+<!-- For speech, language, hearing, and neurological communication consultation. -->
+> I specialize in acquired neurogenic communication and swallowing disorders.
+I help people whose speech, language, or swallowing has been affected by stroke, brain injury, Parkinson's disease, or other neurological conditions.
+I work with adults and children with voice disorders, stuttering, and other communication challenges.
+With my combined training and research in both speech-language pathology and audiology, I can see the full picture of your communication needs and curate necessary services.
+
+I accept post-acute and chronic-phase referrals for aphasia, motor speech disorders, dysphagia, and AAC.
 
 <a href="https://calendar.app.google/jtq4Jkqq7qGCqcBJ7" target="_blank" class="button">Book with Biraj Bhattarai</a>
 
@@ -33,9 +27,32 @@ For speech, language, hearing, and neurological communication consultation.
 
 <div class="card">
 
+## Dr. Sajana Aryal
+
+<!-- For speech, language, hearing, tinnitus, and communication-related consultation. -->
+> I work with adults and children experiencing hearing loss, tinnitus, auditory processing difficulties, and the communication challenges that follow.
+With my extended training and research in audiology, I bridge the gap between hearing health and communication rehabilitation,
+whether you've just received a audiological diagnosis (such as hearing loss, auditory processing disorder), are struggling with ringing in your ears, or need support navigating life with a hearing device.
+
+<!-- I specialise in audiological rehabilitation and tinnitus management. -->
+I accept referrals for audiological and aural rehabilitation, APD, tinnitus management (including, tinnitus retraining therapy), and hearing- and vestibular-related communication intervention.
+
+<a href="https://calendar.app.google/6cVyaYHpytMepqPP8" target="_blank" class="button">Book with Dr. Sajana Aryal</a>
+
+</div>
+
+---
+
+<div class="card">
+
 ## Dr. Pratik Bhandari
 
-For speech, language, cognition, and communication-related consultation.
+<!-- For speech, language, cognition, and communication-related consultation. -->
+> I work at the intersection of brain science and communication.
+If you or a loved one is experiencing changes in memory, attention, reasoning, or social communication, or if you have a complex language profile that hasn't been fully explained, I bring a deeper scientific lens to understanding what's happening and what could help.
+I work with conditions like <!-- dementia -->traumatic brain injury, autism (in adults and children), fluency disorders (stuttering), and complex developmental language profiles.
+
+I also work with clients who want a research-informed, evidence-based deep-dive into their communication difficulties when standard assessments have so far been inconclusive.
 
 <a href="https://calendar.app.google/P8WZmZ9YLrHQdWcU8" target="_blank" class="button">Book with Dr. Pratik Bhandari</a>
 
@@ -49,8 +66,8 @@ Please prepare the following information:
 
 - Main concern or reason for consultation  
 - Any previous diagnosis or reports (if available)  
-- Speech,Language and Hearing evaluation  test results (if available)  
-- Questions/Conerns you would like to discuss/share  
+- Speech, language and hearing evaluation test results (if available)  
+- Questions/conerns you would like to discuss/share  
 
 ---
 
