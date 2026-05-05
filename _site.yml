@@ -17,6 +17,8 @@ navbar:
       href: consultation-fee.html
     - text: "Book Your Appointment"
       href: appointment.html
+    - text: "FAQs"
+      href: faq.html
     - text: "Contact"
       href: contact.html
 
