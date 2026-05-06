@@ -35,8 +35,41 @@ TELE-SPEAK Nepal is a virtual platform to help individuals with communication di
 ---
 
 ## WHO CAN BENEFIT?
+<br>
 
-- Children with speech or language delay (e.g., children with Austism Spectrum Disorder, Down syndrome)
+### Children
+
+- Speech or language delay
+  - e.g., children with autism spectrum disorder, Down syndrome, cerebral palsy
+- Speech sound disorders
+  - e.g., misarticulation
+
+### Adults
+
+- Speech disorders
+  - e.g., voice disorders, fluency disorders
+- Neurological communication disorders
+  - e.g., post-stroke aphasia, dysarthria
+- Swallowing difficulties (dysphagia)
+
+### Both children and adults
+
+- Individuals with hearing and listening concerns
+  - e.g., hearing loss, auditory processing disorder (APD)
+- Cochlear implantees
+- Hearing aid users
+- Individuals experiencing ringing in the ear and sound sensitivity disorders 
+  - e.g., tinnitus, misophonia, hyperacusis
+
+### Other stakeholders
+
+- Individuals living in areas with limited access to specialists  
+- Schools in remote and suburban Nepal that need help understanding special communication needs of their students
+- Local governments seeking expertis to train their staff and health-workers
+- Corporate and non-government organisations seeking awareness on disability and communication difficulties
+- Teachers seeking awareness on voice hygiene
+  
+<!-- - Children with speech or language delay (e.g., children with Austism Spectrum Disorder, Down syndrome) 
 - Children with speech sound disorders
 - Adults with speech disorders (e.g., voice disorders, fluency disorders)
 - Adults with neurological communication disorders (e.g., post-stroke aphasia, dysarthria)
@@ -44,7 +77,7 @@ TELE-SPEAK Nepal is a virtual platform to help individuals with communication di
 - Individuals experiencing tinnitus and sound sensitivity disorders  
 - Caregivers seeking training on speech and language intervention
 - Individuals living in areas with limited access to specialists  
-- Schools that help children with special communication needs
+- Schools that help children with special communication needs-->
 
 
 ---
