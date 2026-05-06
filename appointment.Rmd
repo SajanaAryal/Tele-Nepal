@@ -76,4 +76,51 @@ Please prepare the following information:
 - Sessions are conducted online via Google Meet (Make sure you have good internet access)
 - You will receive a confirmation email after booking  
 - A meeting link will be shared automatically  
+
+---
+
+<div style="text-align:center;">
+  <h1> CONSULTATION FEES </h1>
+</div>
+
+```{r setup-fees-data, cache=TRUE, include=FALSE}
+
+library(reactable)
+# library(kableExtra)
+# library(flextable)
+
+df <- dplyr::tibble(
+  Service = c("Initial comprehensive assessment", "Follow-up therapy session", "Caregiver coaching session", "Second opinion consultation"),
+  "Duration (approx.)" = c("30-40 minutes", "25-30 minutes", "20-25 minutes", "15-20 minutes"),
+  Fees = c("Rs.1600/USD180", "Rs.1000/USD150", "Rs.800/USD110", "Rs.500/USD80")
+)
+
+```
+
+```{r, render-table, cache=TRUE, echo=FALSE}
+reactable(df)
+
+# kbl(df)
+# flextable(df)
+```
+
+---
+
+## PAYMENT INFORMATION
+
+You can pay online using the following methods:
+
+<a href="#" style="color:#0B4F6C; text-decoration:none;">Fonepay</a>  
+<a href="#" style="color:#0B4F6C; text-decoration:none;">Khalti</a>  
+<a href="#" style="color:#0B4F6C; text-decoration:none;">eSewa</a>  
+
+**Note:**  
+Payment is required before each consultation after booking an appointment.
+
+---
+
+<div style="text-align:center;">
+  <a class="button" href="appointment.html">Book Your Appointment</a>
+</div>
+
  

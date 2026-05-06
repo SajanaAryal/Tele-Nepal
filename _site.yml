@@ -13,10 +13,12 @@ navbar:
   right:
     - text: "Services"
       href: services.html
-    - text: "Consultation Fees"   # 👈 ADD THIS
-      href: consultation-fee.html
-    - text: "Book Your Appointment"
+    # - text: "Consultation Fees"   # 👈 ADD THIS
+    #   href: consultation-fee.html
+    - text: "Appointment and Fees"
       href: appointment.html
+    # - text: "Blog"
+    #   href: blog.html
     - text: "FAQs"
       href: faq.html
     - text: "Contact"

@@ -27,3 +27,27 @@ You can pay online using the following methods:
 
 **Note:**  
 Payment is required before each consultation after booking an appointment.
+
+---
+
+```{r setup-fees-data, include=FALSE}
+
+library(reactable)
+# library(kableExtra)
+# library(flextable)
+
+df <- dplyr::tibble(
+  Service = c("Initial comprehensive assessment", "Follow-up therapy session", "Caregiver coaching session", "Second opinion consultation"),
+  "Duration (approx.)" = c("30-40 minutes", "25-30 minutes", "20-25 minutes", "15-20 minutes"),
+  Fees = c("Rs.1600/USD180", "Rs.1000/USD150", "Rs.800/USD110", "Rs.500/USD80")
+)
+
+```
+
+```{r, render-table, echo=FALSE}
+reactable(df)
+
+# kbl(df)
+
+# flextable(df)
+```
